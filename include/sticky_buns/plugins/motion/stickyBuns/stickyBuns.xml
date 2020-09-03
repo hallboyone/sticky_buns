@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="http://gtri.gatech.edu"?>
+<params>
+  <library>stickyBuns_plugin</library>
+  <b_lat>1.1</b_lat><!--Drag coefficient-->
+  <b_rot>0.02</b_rot>
+  <motor_offset>0.349066</motor_offset>
+  <motor_spread>0.523599</motor_spread>
+  <motor_arm>0.15</motor_arm>
+  <Mx> 0.8 </Mx>
+  <My> 0.1 </My>
+  <Mw> 0.5 </Mw>
+</params>

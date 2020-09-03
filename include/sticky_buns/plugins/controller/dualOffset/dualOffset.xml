@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="http://gtri.gatech.edu"?>
+<params>
+  <library>dualOffset_plugin</library>
+  <initial_speed>1</initial_speed>
+  <motor_spread>0.52359877559</motor_spread>
+  <motor_offset>0.34906585039</motor_offset>
+  <motor_arm>0.15</motor_arm>
+</params>

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="http://gtri.gatech.edu"?>
+<params>
+  <library>zonedPotentials_plugin</library>
+  <initial_speed>0</initial_speed>
+  <initial_rot>0</initial_rot><!--Rad/Sec-->
+  <repulse_max>1.</repulse_max>
+  <attract_max>.5</attract_max>
+  <eq_dist>1.</eq_dist>
+  <eq_dist_end>1.</eq_dist_end>
+  <zone_count>6</zone_count>
+  <sense_buffer>0.3</sense_buffer>
+  <max_sense_dist>3</max_sense_dist>
+  <attract_weight>2</attract_weight>
+  <bias_x>0</bias_x>
+  <bias_y>0</bias_y>
+  <period>0</period>
+  <growth_rate>0.3</growth_rate>
+  <group_penalty>0</group_penalty>
+  <leader_penalty>0</leader_penalty>
+  <leader_damage>0</leader_damage>
+</params>
