@@ -119,7 +119,6 @@ bool stickyBuns::step(double time, double dt) {
   x_[Vy] = x_[Vy] + dt * a_y;
   x_[Vo] = x_[Vo] + dt * a_o - b_rot_ * pow(x_[Vo], 2)*((x_[Vo]>0)-(x_[Vo]<0));
 
-  std::cout<<"Vx = "<<x_[Vx]<<", Vy = "<< x_[Vy]<<std::endl;  
   state_->pos()(0) = x_[X];
   state_->pos()(1) = x_[Y];
   state_->vel()(0) = x_[Vx];

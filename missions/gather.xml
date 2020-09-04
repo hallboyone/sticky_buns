@@ -76,14 +76,14 @@
     -->
 
     <autonomy
-	eq_dist = "1.5"
-	eq_dist_end = "1.5"
+	eq_dist = "1"
+	eq_dist_end = "1"
 	bias_y = ".25"
 	bias_x = ".25"
-	group_penalty = "-0.2"
+	group_penalty = "-0.25"
 	leader_penalty = "0"
-	period = "20"
-	growth = "0.01"
+	period = "100"
+	growth = "-0.01"
 	>zonedPotentials</autonomy>
     <base>
       <latitude>35.721112</latitude>

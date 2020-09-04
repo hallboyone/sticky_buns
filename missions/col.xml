@@ -75,11 +75,11 @@
     <sensor order="2">ContactBlobCamera</sensor>
     -->
 
-    <autonomy eq_dist = "1"
-	      eq_dist_end = "1."
-	      bias_y = "1"
-	      bias_x = "0.5"
-	      group_penalty = "-.05"
+    <autonomy eq_dist = ".75"
+	      eq_dist_end = "1.5"
+	      bias_y = ".5"
+	      bias_x = "0"
+	      group_penalty = "0"
 	      period = "0">zonedPotentials</autonomy>
     <base>
       <latitude>35.721112</latitude>
@@ -121,11 +121,11 @@
 	<sensor order="2">ContactBlobCamera</sensor>
     -->
 
-    <autonomy eq_dist = "1"
-	      eq_dist_end = "1."
-	      bias_y = "1"
-	      bias_x = "0.5"
-	      group_penalty = "-.05"
+    <autonomy eq_dist = ".75"
+	      eq_dist_end = "1.5"
+	      bias_y = ".5"
+	      bias_x = "0"
+	      group_penalty = "0"
 	      period = "0">zonedPotentials</autonomy>
     <base>
       <latitude>35.721112</latitude>

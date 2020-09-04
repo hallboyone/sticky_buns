@@ -11,11 +11,10 @@
   <zone_count>6</zone_count>
   <sense_buffer>0.3</sense_buffer>
   <max_sense_dist>3</max_sense_dist>
-  <attract_weight>2</attract_weight>
   <bias_x>0</bias_x>
   <bias_y>0</bias_y>
   <period>0</period>
-  <growth_rate>0.3</growth_rate>
+  <growth_rate>0.15</growth_rate>
   <group_penalty>0</group_penalty>
   <leader_penalty>0</leader_penalty>
   <leader_damage>0</leader_damage>
